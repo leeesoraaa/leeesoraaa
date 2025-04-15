@@ -29,6 +29,13 @@
 - 2024 멋쟁이사자처럼 대학 12기 아이디어톤 교내 1등 - 알콜링
 - 2024 빅데이터분석가 양성 과정 최종 프로젝트 발표회 대상 - 식물 약국 
 <br></br>
+## 📚 Certificates
+| 자격증명                         | 취득일     |
+|----------------------------------|------------|
+| SQLD (SQL 개발자)                | 2024.04    |
+| ADsP (데이터분석 준전문가)        | 2023.09    |
+| 컴퓨터활용능력 2급                | 2023.06    |
+
 ## 🎇Stats
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lsrlsh)](https://solved.ac/lsrlsh)
