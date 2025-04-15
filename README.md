@@ -23,7 +23,7 @@
 ## 🖥️ I developed
 - 🌥️날씨 정보를 한 눈에 쉽게 알려주는 웹🌥️ <a href="https://github.com/leeesoraaa/GOREADY-BE">외출준비(GOREADY)</a>
 - 🐳대학생들의 과제를 위한 피실험자 및 인터뷰어 모집 웹🐳 <a href="https://github.com/leeesoraaa/GOLAB">GOLAB</a>
-- 🪴AI 모델을 이용한 농작물의 질병 진단 웹🪴 <a href="https://github.com/leeesoraaa/CropPharmacy">식물 약국</a> 
+- 🪴AI 모델을 이용한 농작물의 질병 진단 웹🪴 <a href="https://github.com/leeesoraaa/ForFarmerForFuture">식물 약국</a> 
 <br></br>
 ## 🏆Awards
 - 2024 멋쟁이사자처럼 대학 12기 아이디어톤 교내 1등 - 알콜링
