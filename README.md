@@ -21,7 +21,7 @@
 | 2023.06 ~ 2024.01 | 🕵️기업 맞춤형 빅데이터 분석가 양성 과정 수료🕵️ |
 
 ## 🖥️ I developed
-- 🌥️날씨 정보를 한 눈에 쉽게 알려주는 웹🌥️ <a href="https://github.com/leeesoraaa/GOREADY-BE">외출준비(GOREADY)</a>
+- 🌥️날씨 정보를 한 눈에 쉽게 알려주는 웹🌥️ <a href="https://github.com/leeesoraaa/GOREADY_BE">외출준비(GOREADY)</a>
 - 🐳대학생들의 과제를 위한 피실험자 및 인터뷰어 모집 웹🐳 <a href="https://github.com/leeesoraaa/GOLAB">GOLAB</a>
 - 🪴AI 모델을 이용한 농작물의 질병 진단 웹🪴 <a href="https://github.com/leeesoraaa/ForFarmerForFuture">식물 약국</a> 
 <br></br>
